@@ -65,7 +65,7 @@
     </Reference>
     <Reference Include="OPS.Logger.1.2.1.1, Version=1.2.1.1, Culture=neutral, PublicKeyToken=2f4989f27bc3dc51">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\..\inetpub\OPSServices\Common\NET 1.1\ops\OPS.Logger.1.2.1.1.dll</HintPath>
+      <HintPath>.\OPS.Logger.1.2.1.1.dll</HintPath>
     </Reference>
     <Reference Include="PushSharp.Apple, Version=2.1.2.0, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
