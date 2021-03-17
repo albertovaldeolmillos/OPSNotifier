@@ -1,0 +1,5 @@
+﻿
+1. Install service using this text from new directory (for example, C:\inetpub\OPSServices\OPSNotifierServiceHonda)
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil /ServiceName=OPSNotifierServiceHonda /DisplayName="OPS Notifier Honda" opsnotifierserviceHonda.exe
+
+2. Once installed, change default log on user of service to Local System account
